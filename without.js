@@ -7,3 +7,5 @@ const without = (source, itemsToRemove) => {
   }
   return filtered;
 };
+
+module.exports = without;
